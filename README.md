@@ -459,28 +459,28 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+- [x] **How computers process a program:**
+    - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+    - [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Orders of Growth (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/orders-of-growth-6PKkX)
-- [ ] [Asymptotics (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/asymptotics-bXAtM)
-- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [x] [Asymptotics (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/asymptotics-bXAtM)
+- [x] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Illustrating "Big O" (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/illustrating-big-o-YVqzv)
@@ -493,7 +493,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [x] Description:
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
@@ -530,10 +530,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Linked Lists
     - [ ] Description:
-        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
-        - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
-    - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
+        - [x] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+        - [x] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
+        - [x] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
+    - [x] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
             - not the whole video, just portions about Node struct and memory allocation.
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
